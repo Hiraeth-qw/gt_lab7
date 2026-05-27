@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gt_lab7/static/css/main.6b0e42c6.css",
+    "main.js": "/gt_lab7/static/js/main.1e49882a.js",
+    "index.html": "/gt_lab7/index.html",
+    "main.6b0e42c6.css.map": "/gt_lab7/static/css/main.6b0e42c6.css.map",
+    "main.1e49882a.js.map": "/gt_lab7/static/js/main.1e49882a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b0e42c6.css",
+    "static/js/main.1e49882a.js"
+  ]
+}
