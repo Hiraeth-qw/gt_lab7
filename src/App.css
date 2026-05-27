@@ -1,0 +1,29 @@
+.App-buttons {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.App-button-item {
+    margin: 16px;
+}
+
+.App-map-container {
+    height: calc(100vh - 56px);
+    width: 100%;
+}
+
+html,
+body,
+#root {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+/* На всякий случай заставим контейнер карты гарантированно занять экран */
+#map-container {
+    width: 100vw;
+    height: 100vh;
+    display: block;
+}
