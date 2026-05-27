@@ -135,7 +135,6 @@ export default function CombinedMap() {
         };
     }, []);
 
-    // 2. Переключение режимов отображения
     useEffect(() => {
         const map = mapRef.current;
         if (!map || !mapLoaded) return;
